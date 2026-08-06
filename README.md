@@ -1,6 +1,6 @@
 # React + Vite Time Display App
 
-A simple React application built with Vite and `date-fns` to display a live clock and counter.
+A simple React application built with Vite and `date-fns` to display a live clock.
 
 ---
 
@@ -19,16 +19,16 @@ Make sure you have **Node.js** (v18 or higher recommended) installed on your sys
 ## 📦 Installation & Running
 
 1. **Clone or download the repository:**
-   ```bash
-   git clone <your-repository-url>
-   cd <project-folder-name>
+   ```bash```
+   git clone git@github.com:mattnmcintosh/color-clock.git
+   cd color-clock
    
 2. Install dependencies:
 
-    '''bash
+    ```bash```
     npm install
 
 3. Start the development server:
 
-    '''bash
+    ```bash```
     npm run dev
